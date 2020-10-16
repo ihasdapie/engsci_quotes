@@ -10,7 +10,11 @@
 - "Arrr! Today's international pirate day"
 
 
+
 #### ESC194
+- "The εnemy imposes ε>0..." 
+- "Here δoggy δoggy"
+
 
 #### ESC103
 

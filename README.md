@@ -1,2 +1,5 @@
-# engsci_quotes
-repo for engsci quotes
+# A place for memorable quotes from our beloved profs
+
+https://chenbrian.ca/engsci_quotes
+
+
